@@ -4,6 +4,14 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 200px;
 }
 
 .container{
@@ -14,7 +22,7 @@
     width: 270px;
     border-radius: 15px;
     height: 390px;
-    margin: 0 auto;
+    
 
 }
 .container_1{
